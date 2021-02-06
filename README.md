@@ -1,5 +1,5 @@
 # Project: Practicing Git Basics
-***
+
 
 ### About
 ***
